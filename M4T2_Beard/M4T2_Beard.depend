@@ -1,4 +1,6 @@
 # depslib dependency file v1.0
-1677686330 source:c:\users\beardh1263\documents\github\csc134\m4t2_beard\main.cpp
+1678115633 source:c:\users\beardh1263\documents\github\csc134\m4t2_beard\main.cpp
 	<iostream>
+	<cstdlib>
+	<ctime>
 
